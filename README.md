@@ -2,12 +2,7 @@
   <img src="os/android/app/src/main/res/drawable-nodpi/launcher_iv.png" width="260" alt="XHYN IV logo">
 </p>
 
-<h1 align="center">XHYN IV</h1>
-
-<p align="center">Grand Theft Auto IV for Android.</p>
-
-<p align="center">
-  <a href="https://github.com/XHYN-PH/XHYN-IV-recomp/releases/download/0.5.9.3-xhyn-r2-test12/XHYN-IV-0.5.9.3-xhyn-r2-test12.apk"><strong>Download APK</strong></a> ·
+recomp/releases/download/0.5.9.3-xhyn-r2-test12/XHYN-IV-0.5.9.3-xhyn-r2-test12.apk"><strong>Download APK</strong></a> ·
   <a href="https://github.com/XHYN-PH/XHYN-IV-recomp/releases/tag/0.5.9.3-xhyn-r2-test12">What's new</a> ·
   <a href="https://t.me/xhynports">Telegram</a> ·
   <a href="https://youtube.com/@xhyn_ph">YouTube</a>
